@@ -7,4 +7,4 @@
 
 
 ![РИСУНОК](https://gspics.org/images/2022/12/02/0Xl54T.png)
-Рисунок 16.1 - Окно Hierarchy
+Рисунок 16.1 - Окно Hierarchy  
